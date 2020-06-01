@@ -1,2 +1,3 @@
-# tellurianweb
-My bands website
+# [tellurianband.com](https://tellurianband.com)
+
+The website of my band Tellurian
