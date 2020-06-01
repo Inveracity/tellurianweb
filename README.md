@@ -1,3 +1,5 @@
 # [tellurianband.com](https://tellurianband.com)
 
-The website of my band Tellurian
+![deployment](https://github.com/Inveracity/tellurianweb/workflows/deployment/badge.svg)
+
+The website for my band Tellurian
