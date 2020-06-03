@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background-color: #0c1318;
+}
+
+.wrapper {
+    width: 100%;
+    float: center;
+}
+
+img.social-icon {
+    height:3em;
+    width:3.5em;
+    filter: brightness(0.8);
+}
+
+img.social-icon:hover {
+    filter: brightness(1.0);
+}
+
+.header_wrapper {
+    width: 100%;
+    height: 30%;
+}
+
+div.tellurian {
+    margin: 0;
+    background-color: #0c1318;
+    min-height: 100vh
+}
+
+.dorkness {
+    background-color: #0c1318
+}
+
+.icon {
+    background-size: 80px;
+    display: inline-block;
+    width: 80px;
+    height: auto;
+}
+
+div.logo-wrapper {
+    align-items:center;
+    justify-content: center;
+}
+
+div.logo-wrapper img {
+    max-width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .nav-item {
+    padding: 0 0 0 0 !important;
+  }
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: rgb(203, 189, 135);
+    color: rgb(203, 189, 135);
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(203, 189, 135)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
