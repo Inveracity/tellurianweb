@@ -56,6 +56,16 @@ paginate     = 10
     name       = "About"
     url        = "/about"
 
+  [[menu.main]]
+    identifier = "gear"
+    name       = "Gear"
+    url        = "/gear"
+
+  [[menu.main]]
+    identifier = "shows"
+    name       = "Shows"
+    url        = "/shows"
+
 [[params.social]]
   name = "instagram"
   url = "https://www.instagram.com/tellurian.band/"
