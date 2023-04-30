@@ -37,7 +37,7 @@ For us it went something like this:
 
 ## Independence
 
-We agreed early on to produce and release everything ourselves. This means everything wrong the creative process all the way to getting the music released on all the popular platforms like Spotify and Apple Music.
+We agreed early on to produce and release everything ourselves. This means everything from the creative process all the way to getting the music released on all the popular platforms like Spotify and Apple Music.
 
 However there's quite a few steps inbetween going from having 2 riffs and a topline to a fully written and produced song with tight recordings and a punchy mix.
 
