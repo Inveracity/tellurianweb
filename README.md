@@ -1,5 +1,15 @@
 # [tellurianband.com](https://tellurianband.com)
 
-![deployment](https://github.com/Inveracity/tellurianweb/workflows/deployment/badge.svg)
-
 The website for my band Tellurian
+
+## Develop
+
+Install Hugo v0.111.3 Extended or newer
+
+```sh
+# Run
+hugo serve
+
+# Build
+hugo
+```
