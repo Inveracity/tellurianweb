@@ -1,4 +1,4 @@
-baseurl      = "https://tellurianband.com"
+baseurl      = "https://tellurianweb-production.up.railway.app"
 title        = "Tellurian"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
