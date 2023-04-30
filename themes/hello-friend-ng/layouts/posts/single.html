@@ -2,9 +2,7 @@
   <main class="post">
 
     <div class="post-info">
-    </div>
 
-    <div class="post-info">
       {{ partial "tags.html" .Params.tags }}
       {{ partial "categories.html" . }}
 
@@ -77,6 +75,7 @@
           @ {{ if .Site.Params.dateformNum }}{{ dateFormat .Site.Params.dateformNum .GitInfo.AuthorDate.Local }}{{ else }}{{ dateFormat "2006-01-02" .GitInfo.AuthorDate.Local }}{{ end }}
         </p>
       {{- end }}
+      <hr />
     </div>
 
     <article>
@@ -120,10 +119,6 @@
         {{ .Content }}
       </div>
     </article>
-
-    <hr />
-
-
 
     {{- if .Site.Params.EnableSharingButtons }}
       <hr />

@@ -15,7 +15,7 @@ We met playing for a previous band and decided to start this band together.
 
 The reason was to explore new ideas more freely outside the predefined genre of the former band.
 
-{{< audio src="/audio/tellurian_-_demo.mp3" title="interlinear" caption="demo from 2021" >}}
+{{< audio src="INSERT LINK TO SONG HERE" title="interlinear" caption="demo from 2021" >}}
 
 ## Starting from scratch
 
