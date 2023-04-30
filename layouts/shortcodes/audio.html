@@ -1,0 +1,16 @@
+<p style="display: flex; align-items: center;">
+    {{ if index .Params "title" }}
+    <h4 style="font-variant-caps: all-small-caps; margin: 5px;">
+        "{{ index .Params "title" }}"
+    </h4>
+    {{ if index .Params "caption" }}
+    <h5 style="margin: 10px; font-style: italic;">
+        {{ index .Params "caption" }}
+    </h5>
+    {{ end }}
+    {{ end }}
+
+    <audio class="player" controls preload="none">
+        <source src="{{ index .Params `src` }}" type="audio/mp3">
+    </audio>
+</p>
